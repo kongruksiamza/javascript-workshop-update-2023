@@ -5,10 +5,6 @@
 ## 👨‍💻 ไลบราลี่ที่เกี่ยวข้อง
 - [🔗 FontAwesome (CDN)](https://cdnjs.com/libraries/font-awesome)
 - [🔗 FontAwesome (Icons)](https://fontawesome.com/)
-
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การพัฒนาเว็บแอพพลิเคชั่น (Web Development) [อ่านบทความ](https://github.com/kongruksiamza/web-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
   
 ## 🎓 คอร์สเรียนที่น่าสนใจ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 - [พัฒนาเว็บด้วย JavaScript 40 Workshop](https://www.udemy.com/course/javascript-30-workshop/?referralCode=E5EF637C90FC6B8A8E26)
